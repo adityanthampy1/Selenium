@@ -1,4 +1,4 @@
-package WebElements;
+package Buttons;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
